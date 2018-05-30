@@ -1,0 +1,50 @@
+#######################################
+# Syntax Coloring Map For Anemometer
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+Anemometer     		KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+set_factor       	KEYWORD2
+set_offset       	KEYWORD2
+set_enable     		KEYWORD2
+reset_flag     		KEYWORD2
+is_enable         	KEYWORD2
+flag_anemo     		KEYWORD2
+get_average         KEYWORD2
+clear         		KEYWORD2
+start         		KEYWORD2
+read_value        	KEYWORD2
+calc_average      	KEYWORD2
+print      			KEYWORD2
+print_config      	KEYWORD2
+config      		KEYWORD2
+print_data_array 	KEYWORD2
+load_param       	KEYWORD2
+update_param       	KEYWORD2
+initialize_param	KEYWORD2
+
+
+#######################################
+# Constants (LITERAL1)
+#######################################
+
+measure_max 		LITERAL1
+TIMER3_OVF_PERIODE  LITERAL1
+
+
+#######################################
+# Build-in Variables (LITERAL2)
+#######################################
+m_id    		LITERAL2						
+m_enable   		LITERAL2
+m_eeprom_addr   LITERAL2
+m_data     		LITERAL2
+m_average       LITERAL2
+m_factor     	LITERAL2
+m_offset        LITERAL2

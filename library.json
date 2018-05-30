@@ -1,0 +1,16 @@
+{
+  "name": "Power",
+  "keywords": "Power, Windlogger",
+  "description": "This library permit AC or DC power measurement",
+  "repository":
+  {
+    "type": "git",
+    "url": "https://github.com/netbomo/Power.git"
+  },
+  "authors": {
+    "name": "gilou",
+    "url": "https://github.com/netbomo/Power.git"
+  },
+  "frameworks": "arduino",
+  "platforms": "atmelavr"
+}
